@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "javac ${file} && java Solution < /home/shifona/SCP/input.txt"
+}
